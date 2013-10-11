@@ -32,6 +32,7 @@ reveal/Gruntfile.js
 reveal/js/reveal.js
 reveal/js/reveal.min.js
 reveal/lib/css/zenburn.css
+reveal/lib/css/solarized-light.css
 reveal/lib/font/league_gothic-webfont.eot
 reveal/lib/font/league_gothic-webfont.svg
 reveal/lib/font/league_gothic-webfont.ttf
